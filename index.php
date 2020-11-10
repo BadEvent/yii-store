@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<a href="web">go to home, bich</a>
+<a href="web">go to store, bich</a>
 
 </body>
 </html>
